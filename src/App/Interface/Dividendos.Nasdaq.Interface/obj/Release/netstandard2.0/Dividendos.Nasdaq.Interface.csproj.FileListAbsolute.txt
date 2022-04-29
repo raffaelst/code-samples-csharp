@@ -1,9 +1,0 @@
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Nasdaq.Interface\bin\Release\netstandard2.0\Dividendos.Nasdaq.Interface.deps.json
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Nasdaq.Interface\bin\Release\netstandard2.0\Dividendos.Nasdaq.Interface.dll
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Nasdaq.Interface\bin\Release\netstandard2.0\Dividendos.Nasdaq.Interface.pdb
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Nasdaq.Interface\obj\Release\netstandard2.0\Dividendos.Nasdaq.Interface.csproj.AssemblyReference.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Nasdaq.Interface\obj\Release\netstandard2.0\Dividendos.Nasdaq.Interface.AssemblyInfoInputs.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Nasdaq.Interface\obj\Release\netstandard2.0\Dividendos.Nasdaq.Interface.AssemblyInfo.cs
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Nasdaq.Interface\obj\Release\netstandard2.0\Dividendos.Nasdaq.Interface.csproj.CoreCompileInputs.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Nasdaq.Interface\obj\Release\netstandard2.0\Dividendos.Nasdaq.Interface.dll
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Nasdaq.Interface\obj\Release\netstandard2.0\Dividendos.Nasdaq.Interface.pdb

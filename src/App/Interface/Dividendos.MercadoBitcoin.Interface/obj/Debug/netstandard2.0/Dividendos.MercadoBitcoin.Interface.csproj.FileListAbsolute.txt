@@ -1,9 +1,0 @@
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.MercadoBitcoin.Interface\bin\Debug\netstandard2.0\Dividendos.MercadoBitcoin.Interface.deps.json
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.MercadoBitcoin.Interface\bin\Debug\netstandard2.0\Dividendos.MercadoBitcoin.Interface.dll
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.MercadoBitcoin.Interface\bin\Debug\netstandard2.0\Dividendos.MercadoBitcoin.Interface.pdb
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.MercadoBitcoin.Interface\obj\Debug\netstandard2.0\Dividendos.MercadoBitcoin.Interface.csproj.AssemblyReference.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.MercadoBitcoin.Interface\obj\Debug\netstandard2.0\Dividendos.MercadoBitcoin.Interface.AssemblyInfoInputs.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.MercadoBitcoin.Interface\obj\Debug\netstandard2.0\Dividendos.MercadoBitcoin.Interface.AssemblyInfo.cs
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.MercadoBitcoin.Interface\obj\Debug\netstandard2.0\Dividendos.MercadoBitcoin.Interface.csproj.CoreCompileInputs.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.MercadoBitcoin.Interface\obj\Debug\netstandard2.0\Dividendos.MercadoBitcoin.Interface.dll
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.MercadoBitcoin.Interface\obj\Debug\netstandard2.0\Dividendos.MercadoBitcoin.Interface.pdb

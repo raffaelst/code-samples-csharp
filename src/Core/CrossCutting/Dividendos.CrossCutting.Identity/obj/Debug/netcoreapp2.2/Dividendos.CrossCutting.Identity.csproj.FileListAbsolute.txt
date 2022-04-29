@@ -1,9 +1,0 @@
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\CrossCutting\Dividendos.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Dividendos.CrossCutting.Identity.deps.json
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\CrossCutting\Dividendos.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Dividendos.CrossCutting.Identity.dll
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\CrossCutting\Dividendos.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Dividendos.CrossCutting.Identity.pdb
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\CrossCutting\Dividendos.CrossCutting.Identity\obj\Debug\netcoreapp2.2\Dividendos.CrossCutting.Identity.csproj.AssemblyReference.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\CrossCutting\Dividendos.CrossCutting.Identity\obj\Debug\netcoreapp2.2\Dividendos.CrossCutting.Identity.AssemblyInfoInputs.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\CrossCutting\Dividendos.CrossCutting.Identity\obj\Debug\netcoreapp2.2\Dividendos.CrossCutting.Identity.AssemblyInfo.cs
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\CrossCutting\Dividendos.CrossCutting.Identity\obj\Debug\netcoreapp2.2\Dividendos.CrossCutting.Identity.csproj.CoreCompileInputs.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\CrossCutting\Dividendos.CrossCutting.Identity\obj\Debug\netcoreapp2.2\Dividendos.CrossCutting.Identity.dll
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\CrossCutting\Dividendos.CrossCutting.Identity\obj\Debug\netcoreapp2.2\Dividendos.CrossCutting.Identity.pdb

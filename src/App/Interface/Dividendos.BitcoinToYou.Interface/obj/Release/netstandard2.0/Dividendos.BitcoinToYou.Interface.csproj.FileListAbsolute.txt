@@ -1,9 +1,0 @@
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.BitcoinToYou.Interface\bin\Release\netstandard2.0\Dividendos.BitcoinToYou.Interface.deps.json
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.BitcoinToYou.Interface\bin\Release\netstandard2.0\Dividendos.BitcoinToYou.Interface.dll
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.BitcoinToYou.Interface\bin\Release\netstandard2.0\Dividendos.BitcoinToYou.Interface.pdb
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.BitcoinToYou.Interface\obj\Release\netstandard2.0\Dividendos.BitcoinToYou.Interface.csproj.AssemblyReference.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.BitcoinToYou.Interface\obj\Release\netstandard2.0\Dividendos.BitcoinToYou.Interface.AssemblyInfoInputs.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.BitcoinToYou.Interface\obj\Release\netstandard2.0\Dividendos.BitcoinToYou.Interface.AssemblyInfo.cs
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.BitcoinToYou.Interface\obj\Release\netstandard2.0\Dividendos.BitcoinToYou.Interface.csproj.CoreCompileInputs.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.BitcoinToYou.Interface\obj\Release\netstandard2.0\Dividendos.BitcoinToYou.Interface.dll
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.BitcoinToYou.Interface\obj\Release\netstandard2.0\Dividendos.BitcoinToYou.Interface.pdb

@@ -1,9 +1,0 @@
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.SuggestedPortfolioBySpecialist.Interface\bin\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.Interface.deps.json
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.SuggestedPortfolioBySpecialist.Interface\bin\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.Interface.dll
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.SuggestedPortfolioBySpecialist.Interface\bin\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.Interface.pdb
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.SuggestedPortfolioBySpecialist.Interface\obj\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.Interface.AssemblyInfoInputs.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.SuggestedPortfolioBySpecialist.Interface\obj\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.Interface.AssemblyInfo.cs
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.SuggestedPortfolioBySpecialist.Interface\obj\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.Interface.csproj.CoreCompileInputs.cache
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.SuggestedPortfolioBySpecialist.Interface\obj\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.Interface.dll
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.SuggestedPortfolioBySpecialist.Interface\obj\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.Interface.pdb
-C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.SuggestedPortfolioBySpecialist.Interface\obj\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.Interface.csproj.AssemblyReference.cache
