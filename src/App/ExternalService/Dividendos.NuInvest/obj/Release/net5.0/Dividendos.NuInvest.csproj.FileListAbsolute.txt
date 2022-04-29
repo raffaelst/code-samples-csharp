@@ -1,0 +1,15 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\bin\Release\net5.0\Dividendos.NuInvest.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\bin\Release\net5.0\Dividendos.NuInvest.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\bin\Release\net5.0\ref\Dividendos.NuInvest.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\bin\Release\net5.0\Dividendos.NuInvest.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\bin\Release\net5.0\Dividendos.NuInvest.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\bin\Release\net5.0\Dividendos.NuInvest.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\obj\Release\net5.0\Dividendos.NuInvest.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\obj\Release\net5.0\Dividendos.NuInvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\obj\Release\net5.0\Dividendos.NuInvest.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\obj\Release\net5.0\Dividendos.NuInvest.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\obj\Release\net5.0\Dividendos.NuInvest.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\obj\Release\net5.0\Dividendos.NuInvest.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\obj\Release\net5.0\Dividendos.NuInvest.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\obj\Release\net5.0\ref\Dividendos.NuInvest.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.NuInvest\obj\Release\net5.0\Dividendos.NuInvest.pdb

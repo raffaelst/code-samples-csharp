@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Logo] (
+    [IdLogo]   BIGINT           IDENTITY (1, 1) NOT NULL,
+    [Logo]     VARBINARY (MAX)  NOT NULL,
+    [GuidLogo] UNIQUEIDENTIFIER ROWGUIDCOL NOT NULL,
+    CONSTRAINT [PK_Logo] PRIMARY KEY CLUSTERED ([IdLogo] ASC)
+);
+

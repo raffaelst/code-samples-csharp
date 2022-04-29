@@ -1,0 +1,69 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+	  <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Response\Configurations\**" />
+    <EmbeddedResource Remove="Response\Configurations\**" />
+    <None Remove="Response\Configurations\**" />
+    <None Remove="Request\Goals\" />
+    <None Remove="Response\v2\Crypto\" />
+    <None Remove="Response\v1\PortalInvestidorB3\" />
+    <None Remove="Request\RDStation\" />
+    <None Remove="Response\Insight\" />
+    <None Remove="Request\Insight\" />
+    <None Remove="Request\PatrimonyCompose\" />
+    <None Remove="Response\PatrimonyCompose\" />
+    <None Remove="Request\v2\" />
+    <None Remove="Request\v2\User\" />
+    <None Remove="Request\InvestmentAdvisor\" />
+    <None Remove="Response\v1\InvestmentAdvisor\" />
+    <None Remove="Response\Compnay\" />
+    <None Remove="Request\Hurst\" />
+    <None Remove="Request\FreeRecommendations\" />
+    <None Remove="Response\FreeRecommendations\" />
+    <None Remove="Response\Influencer\" />
+    <None Remove="Response\v1\ResearchProduct\" />
+    <None Remove="Response\v1\CompanyIndicator\" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Response\MilkingCows\" />
+    <Folder Include="Request\Goals\" />
+    <Folder Include="Response\v2\Crypto\" />
+    <Folder Include="Response\v1\PortalInvestidorB3\" />
+    <Folder Include="Request\RDStation\" />
+    <Folder Include="Response\Insight\" />
+    <Folder Include="Request\Insight\" />
+    <Folder Include="Request\PatrimonyCompose\" />
+    <Folder Include="Response\PatrimonyCompose\" />
+    <Folder Include="Request\v2\" />
+    <Folder Include="Request\v2\User\" />
+    <Folder Include="Request\InvestmentAdvisor\" />
+    <Folder Include="Response\v1\InvestmentAdvisor\" />
+    <Folder Include="Response\Company\" />
+    <Folder Include="Request\Hurst\" />
+    <Folder Include="Request\FreeRecommendations\" />
+    <Folder Include="Response\FreeRecommendations\" />
+    <Folder Include="Response\Influencer\" />
+    <Folder Include="Response\v1\ResearchProduct\" />
+    <Folder Include="Response\v1\CompanyIndicator\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="Response\Influencer\InfluencerVM.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+</Project>

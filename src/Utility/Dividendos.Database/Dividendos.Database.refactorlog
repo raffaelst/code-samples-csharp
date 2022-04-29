@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="c2fb8036-6961-4992-acf9-791252abbd73" ChangeDateTime="05/10/2019 03:18:47">
+    <Property Name="ElementName" Value="[dbo].[DividendType].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DividendType]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdDividendType" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3286461b-9e1c-404a-a879-81f3f6f890fe" ChangeDateTime="05/10/2019 03:39:15">
+    <Property Name="ElementName" Value="[dbo].[Operation].[L]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Operation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="LastUpdatedDate" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="96b30930-7fc1-4f3e-b111-8791cc376a0e" ChangeDateTime="05/14/2019 02:57:09">
+    <Property Name="ElementName" Value="[dbo].[AspNetUsers].[FirstName]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[AspNetUsers]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Name" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e7ab57b1-d145-4f4e-a2e6-8f1e87e5f575" ChangeDateTime="05/15/2019 02:18:22">
+    <Property Name="ElementName" Value="[dbo].[AspNetUsers].[FirstName]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[AspNetUsers]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Name" />
+  </Operation>
+</Operations>

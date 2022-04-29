@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\App\\ExternalService\\Dividendos.Rico\\Dividendos.Rico.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\App\\ExternalService\\Dividendos.Rico\\Dividendos.Rico.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\App\\ExternalService\\Dividendos.Rico\\Dividendos.Rico.csproj",
+        "projectName": "Dividendos.Rico",
+        "projectPath": "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\App\\ExternalService\\Dividendos.Rico\\Dividendos.Rico.csproj",
+        "packagesPath": "C:\\Users\\trademap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\App\\ExternalService\\Dividendos.Rico\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\NuGet.Config",
+          "C:\\Users\\trademap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://nuget.dividendos.me/nuget": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\App\\Interface\\Dividendos.Rico.Interface\\Dividendos.Rico.Interface.csproj": {
+                "projectPath": "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\App\\Interface\\Dividendos.Rico.Interface\\Dividendos.Rico.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\App\\Interface\\Dividendos.Rico.Interface\\Dividendos.Rico.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\App\\Interface\\Dividendos.Rico.Interface\\Dividendos.Rico.Interface.csproj",
+        "projectName": "Dividendos.Rico.Interface",
+        "projectPath": "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\App\\Interface\\Dividendos.Rico.Interface\\Dividendos.Rico.Interface.csproj",
+        "packagesPath": "C:\\Users\\trademap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\App\\Interface\\Dividendos.Rico.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\NuGet.Config",
+          "C:\\Users\\trademap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://nuget.dividendos.me/nuget": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

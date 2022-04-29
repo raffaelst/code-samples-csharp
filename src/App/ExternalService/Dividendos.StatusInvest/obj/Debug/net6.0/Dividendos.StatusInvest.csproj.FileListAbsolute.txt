@@ -1,0 +1,17 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\bin\Debug\net6.0\Dividendos.StatusInvest.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\bin\Debug\net6.0\Dividendos.StatusInvest.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\bin\Debug\net6.0\Dividendos.StatusInvest.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\bin\Debug\net6.0\Dividendos.Entity.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\bin\Debug\net6.0\Dividendos.StatusInvest.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\bin\Debug\net6.0\Dividendos.StatusInvest.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\bin\Debug\net6.0\Dividendos.Entity.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\obj\Debug\net6.0\Dividendos.StatusInvest.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\obj\Debug\net6.0\Dividendos.StatusInvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\obj\Debug\net6.0\Dividendos.StatusInvest.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\obj\Debug\net6.0\Dividendos.StatusInvest.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\obj\Debug\net6.0\Dividendos.StatusInvest.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\obj\Debug\net6.0\Dividendos.StatusInvest.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\obj\Debug\net6.0\Dividendos.StatusInvest.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\obj\Debug\net6.0\refint\Dividendos.StatusInvest.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\obj\Debug\net6.0\Dividendos.StatusInvest.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.StatusInvest\obj\Debug\net6.0\ref\Dividendos.StatusInvest.dll

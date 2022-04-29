@@ -1,0 +1,12 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestingCom.Interface\bin\Debug\net6.0\Dividendos.InvestingCom.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestingCom.Interface\bin\Debug\net6.0\Dividendos.InvestingCom.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestingCom.Interface\bin\Debug\net6.0\Dividendos.InvestingCom.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestingCom.Interface\obj\Debug\net6.0\Dividendos.InvestingCom.Interface.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestingCom.Interface\obj\Debug\net6.0\Dividendos.InvestingCom.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestingCom.Interface\obj\Debug\net6.0\Dividendos.InvestingCom.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestingCom.Interface\obj\Debug\net6.0\Dividendos.InvestingCom.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestingCom.Interface\obj\Debug\net6.0\Dividendos.InvestingCom.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestingCom.Interface\obj\Debug\net6.0\Dividendos.InvestingCom.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestingCom.Interface\obj\Debug\net6.0\refint\Dividendos.InvestingCom.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestingCom.Interface\obj\Debug\net6.0\Dividendos.InvestingCom.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestingCom.Interface\obj\Debug\net6.0\ref\Dividendos.InvestingCom.Interface.dll

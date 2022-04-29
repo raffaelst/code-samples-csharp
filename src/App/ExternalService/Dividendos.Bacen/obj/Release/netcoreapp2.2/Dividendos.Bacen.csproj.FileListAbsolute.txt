@@ -1,0 +1,12 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\bin\Release\netcoreapp2.2\Dividendos.Bacen.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\bin\Release\netcoreapp2.2\Dividendos.Bacen.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\bin\Release\netcoreapp2.2\Dividendos.Bacen.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\bin\Release\netcoreapp2.2\Dividendos.Bacen.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\bin\Release\netcoreapp2.2\Dividendos.Bacen.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Release\netcoreapp2.2\Dividendos.Bacen.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Release\netcoreapp2.2\Dividendos.Bacen.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Release\netcoreapp2.2\Dividendos.Bacen.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Release\netcoreapp2.2\Dividendos.Bacen.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Release\netcoreapp2.2\Dividendos.Bacen.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Release\netcoreapp2.2\Dividendos.Bacen.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Release\netcoreapp2.2\Dividendos.Bacen.pdb

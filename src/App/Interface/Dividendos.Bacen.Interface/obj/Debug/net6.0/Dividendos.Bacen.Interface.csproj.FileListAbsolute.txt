@@ -1,0 +1,12 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\bin\Debug\net6.0\Dividendos.Bacen.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\bin\Debug\net6.0\Dividendos.Bacen.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\bin\Debug\net6.0\Dividendos.Bacen.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\net6.0\Dividendos.Bacen.Interface.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\net6.0\Dividendos.Bacen.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\net6.0\Dividendos.Bacen.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\net6.0\Dividendos.Bacen.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\net6.0\Dividendos.Bacen.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\net6.0\Dividendos.Bacen.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\net6.0\refint\Dividendos.Bacen.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\net6.0\Dividendos.Bacen.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\net6.0\ref\Dividendos.Bacen.Interface.dll

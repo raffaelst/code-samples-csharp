@@ -1,0 +1,12 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestidorB3.Interface\bin\Release\net5.0\Dividendos.InvestidorB3.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestidorB3.Interface\bin\Release\net5.0\Dividendos.InvestidorB3.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestidorB3.Interface\bin\Release\net5.0\ref\Dividendos.InvestidorB3.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestidorB3.Interface\bin\Release\net5.0\Dividendos.InvestidorB3.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestidorB3.Interface\obj\Release\net5.0\Dividendos.InvestidorB3.Interface.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestidorB3.Interface\obj\Release\net5.0\Dividendos.InvestidorB3.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestidorB3.Interface\obj\Release\net5.0\Dividendos.InvestidorB3.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestidorB3.Interface\obj\Release\net5.0\Dividendos.InvestidorB3.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestidorB3.Interface\obj\Release\net5.0\Dividendos.InvestidorB3.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestidorB3.Interface\obj\Release\net5.0\Dividendos.InvestidorB3.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestidorB3.Interface\obj\Release\net5.0\ref\Dividendos.InvestidorB3.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InvestidorB3.Interface\obj\Release\net5.0\Dividendos.InvestidorB3.Interface.pdb

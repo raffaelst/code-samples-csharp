@@ -1,0 +1,9 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Oceans14.Interface\bin\Debug\netcoreapp2.2\Dividendos.Oceans14.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Oceans14.Interface\bin\Debug\netcoreapp2.2\Dividendos.Oceans14.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Oceans14.Interface\bin\Debug\netcoreapp2.2\Dividendos.Oceans14.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Oceans14.Interface\obj\Debug\netcoreapp2.2\Dividendos.Oceans14.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Oceans14.Interface\obj\Debug\netcoreapp2.2\Dividendos.Oceans14.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Oceans14.Interface\obj\Debug\netcoreapp2.2\Dividendos.Oceans14.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Oceans14.Interface\obj\Debug\netcoreapp2.2\Dividendos.Oceans14.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Oceans14.Interface\obj\Debug\netcoreapp2.2\Dividendos.Oceans14.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Oceans14.Interface\obj\Debug\netcoreapp2.2\Dividendos.Oceans14.Interface.csproj.AssemblyReference.cache

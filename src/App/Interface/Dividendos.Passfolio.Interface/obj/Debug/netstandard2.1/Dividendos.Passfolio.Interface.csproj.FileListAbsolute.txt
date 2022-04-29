@@ -1,0 +1,10 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Passfolio.Interface\bin\Debug\netstandard2.1\Dividendos.Passfolio.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Passfolio.Interface\bin\Debug\netstandard2.1\Dividendos.Passfolio.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Passfolio.Interface\bin\Debug\netstandard2.1\Dividendos.Passfolio.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Passfolio.Interface\obj\Debug\netstandard2.1\Dividendos.Passfolio.Interface.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Passfolio.Interface\obj\Debug\netstandard2.1\Dividendos.Passfolio.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Passfolio.Interface\obj\Debug\netstandard2.1\Dividendos.Passfolio.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Passfolio.Interface\obj\Debug\netstandard2.1\Dividendos.Passfolio.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Passfolio.Interface\obj\Debug\netstandard2.1\Dividendos.Passfolio.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Passfolio.Interface\obj\Debug\netstandard2.1\Dividendos.Passfolio.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Passfolio.Interface\obj\Debug\netstandard2.1\Dividendos.Passfolio.Interface.pdb

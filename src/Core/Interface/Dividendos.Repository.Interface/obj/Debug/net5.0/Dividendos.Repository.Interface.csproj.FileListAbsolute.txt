@@ -1,0 +1,17 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\bin\Debug\net5.0\Dividendos.Repository.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\bin\Debug\net5.0\Dividendos.Repository.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\bin\Debug\net5.0\Dividendos.Repository.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\bin\Debug\net5.0\Dividendos.CrossCutting.Identity.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\bin\Debug\net5.0\Dividendos.Entity.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\bin\Debug\net5.0\Dividendos.CrossCutting.Identity.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\bin\Debug\net5.0\Dividendos.Entity.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\obj\Debug\net5.0\Dividendos.Repository.Interface.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\obj\Debug\net5.0\Dividendos.Repository.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\obj\Debug\net5.0\Dividendos.Repository.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\obj\Debug\net5.0\Dividendos.Repository.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\obj\Debug\net5.0\Dividendos.Repository.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\obj\Debug\net5.0\Dividendos.Repository.Interface.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\obj\Debug\net5.0\Dividendos.Repository.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\obj\Debug\net5.0\refint\Dividendos.Repository.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\obj\Debug\net5.0\Dividendos.Repository.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Interface\Dividendos.Repository.Interface\obj\Debug\net5.0\ref\Dividendos.Repository.Interface.dll

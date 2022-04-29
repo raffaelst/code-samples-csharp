@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+	  <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
+	  <Configurations>Release;Debug</Configurations>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <CodeAnalysisRuleSet>ProductNameHere.CrossCutting.Mapper.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <CodeAnalysisRuleSet>ProductNameHere.CrossCutting.Mapper.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Application.Interface\Dividendos.Application.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.B3.Interface\Dividendos.B3.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Binance.Interface\Dividendos.Binance.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.MercadoBitcoin.Interface\Dividendos.MercadoBitcoin.Interface.csproj" />    
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Passfolio.Interface\Dividendos.Passfolio.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.TradeMap.Interface\Dividendos.TradeMap.Interface.csproj" />
+    <ProjectReference Include="..\..\Dividendos.Entities\Dividendos.Entity.csproj" />
+    <ProjectReference Include="..\Dividendos.CrossCutting.Identity\Dividendos.CrossCutting.Identity.csproj" />
+  </ItemGroup>
+
+</Project>

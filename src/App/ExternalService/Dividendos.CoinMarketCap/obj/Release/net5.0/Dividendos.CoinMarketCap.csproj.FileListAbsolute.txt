@@ -1,0 +1,15 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\bin\Release\net5.0\Dividendos.CoinMarketCap.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\bin\Release\net5.0\Dividendos.CoinMarketCap.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\bin\Release\net5.0\ref\Dividendos.CoinMarketCap.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\bin\Release\net5.0\Dividendos.CoinMarketCap.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\bin\Release\net5.0\Dividendos.CoinMarketCap.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\bin\Release\net5.0\Dividendos.CoinMarketCap.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\obj\Release\net5.0\Dividendos.CoinMarketCap.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\obj\Release\net5.0\Dividendos.CoinMarketCap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\obj\Release\net5.0\Dividendos.CoinMarketCap.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\obj\Release\net5.0\Dividendos.CoinMarketCap.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\obj\Release\net5.0\Dividendos.CoinMarketCap.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\obj\Release\net5.0\Dividendos.CoinMarketCap.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\obj\Release\net5.0\Dividendos.CoinMarketCap.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\obj\Release\net5.0\ref\Dividendos.CoinMarketCap.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinMarketCap\obj\Release\net5.0\Dividendos.CoinMarketCap.pdb

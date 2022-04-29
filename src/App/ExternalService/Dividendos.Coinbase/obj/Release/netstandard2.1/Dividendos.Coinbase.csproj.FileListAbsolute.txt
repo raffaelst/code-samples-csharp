@@ -1,0 +1,13 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Coinbase\bin\Release\netstandard2.1\Dividendos.Coinbase.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Coinbase\bin\Release\netstandard2.1\Dividendos.Coinbase.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Coinbase\bin\Release\netstandard2.1\Dividendos.Coinbase.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Coinbase\bin\Release\netstandard2.1\Dividendos.Coinbase.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Coinbase\bin\Release\netstandard2.1\Dividendos.Coinbase.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Coinbase\obj\Release\netstandard2.1\Dividendos.Coinbase.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Coinbase\obj\Release\netstandard2.1\Dividendos.Coinbase.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Coinbase\obj\Release\netstandard2.1\Dividendos.Coinbase.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Coinbase\obj\Release\netstandard2.1\Dividendos.Coinbase.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Coinbase\obj\Release\netstandard2.1\Dividendos.Coinbase.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Coinbase\obj\Release\netstandard2.1\Dividendos.Coinbase.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Coinbase\obj\Release\netstandard2.1\Dividendos.Coinbase.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Coinbase\obj\Release\netstandard2.1\Dividendos.Coinbase.GeneratedMSBuildEditorConfig.editorconfig

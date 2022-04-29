@@ -1,0 +1,17 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\bin\Release\net5.0\Dividendos.TradeMap.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\bin\Release\net5.0\Dividendos.TradeMap.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\bin\Release\net5.0\ref\Dividendos.TradeMap.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\bin\Release\net5.0\Dividendos.TradeMap.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\bin\Release\net5.0\Dividendos.Entity.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\bin\Release\net5.0\Dividendos.TradeMap.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\bin\Release\net5.0\Dividendos.Entity.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\bin\Release\net5.0\Dividendos.TradeMap.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\obj\Release\net5.0\Dividendos.TradeMap.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\obj\Release\net5.0\Dividendos.TradeMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\obj\Release\net5.0\Dividendos.TradeMap.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\obj\Release\net5.0\Dividendos.TradeMap.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\obj\Release\net5.0\Dividendos.TradeMap.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\obj\Release\net5.0\Dividendos.TradeMap.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\obj\Release\net5.0\Dividendos.TradeMap.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\obj\Release\net5.0\ref\Dividendos.TradeMap.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.TradeMap\obj\Release\net5.0\Dividendos.TradeMap.pdb

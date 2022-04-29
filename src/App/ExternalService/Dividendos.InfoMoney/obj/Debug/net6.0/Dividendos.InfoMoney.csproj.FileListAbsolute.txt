@@ -1,0 +1,15 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\bin\Debug\net6.0\Dividendos.InfoMoney.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\bin\Debug\net6.0\Dividendos.InfoMoney.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\bin\Debug\net6.0\Dividendos.InfoMoney.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\bin\Debug\net6.0\Dividendos.InfoMoney.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\bin\Debug\net6.0\Dividendos.InfoMoney.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\obj\Debug\net6.0\Dividendos.InfoMoney.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\obj\Debug\net6.0\Dividendos.InfoMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\obj\Debug\net6.0\Dividendos.InfoMoney.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\obj\Debug\net6.0\Dividendos.InfoMoney.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\obj\Debug\net6.0\Dividendos.InfoMoney.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\obj\Debug\net6.0\Dividendos.InfoMoney.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\obj\Debug\net6.0\Dividendos.InfoMoney.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\obj\Debug\net6.0\refint\Dividendos.InfoMoney.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\obj\Debug\net6.0\Dividendos.InfoMoney.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InfoMoney\obj\Debug\net6.0\ref\Dividendos.InfoMoney.dll

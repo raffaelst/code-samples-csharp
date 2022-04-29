@@ -1,0 +1,12 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\bin\Debug\net6.0\Dividendos.Entity.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\bin\Debug\net6.0\Dividendos.Entity.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\bin\Debug\net6.0\Dividendos.Entity.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Debug\net6.0\Dividendos.Entity.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Debug\net6.0\Dividendos.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Debug\net6.0\Dividendos.Entity.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Debug\net6.0\Dividendos.Entity.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Debug\net6.0\Dividendos.Entity.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Debug\net6.0\Dividendos.Entity.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Debug\net6.0\refint\Dividendos.Entity.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Debug\net6.0\Dividendos.Entity.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Debug\net6.0\ref\Dividendos.Entity.dll

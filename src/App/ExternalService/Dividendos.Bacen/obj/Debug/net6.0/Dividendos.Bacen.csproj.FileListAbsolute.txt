@@ -1,0 +1,15 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\bin\Debug\net6.0\Dividendos.Bacen.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\bin\Debug\net6.0\Dividendos.Bacen.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\bin\Debug\net6.0\Dividendos.Bacen.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\bin\Debug\net6.0\Dividendos.Bacen.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\bin\Debug\net6.0\Dividendos.Bacen.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Debug\net6.0\Dividendos.Bacen.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Debug\net6.0\Dividendos.Bacen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Debug\net6.0\Dividendos.Bacen.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Debug\net6.0\Dividendos.Bacen.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Debug\net6.0\Dividendos.Bacen.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Debug\net6.0\Dividendos.Bacen.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Debug\net6.0\Dividendos.Bacen.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Debug\net6.0\refint\Dividendos.Bacen.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Debug\net6.0\Dividendos.Bacen.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Bacen\obj\Debug\net6.0\ref\Dividendos.Bacen.dll

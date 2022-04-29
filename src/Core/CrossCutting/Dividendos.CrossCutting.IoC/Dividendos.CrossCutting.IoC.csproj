@@ -1,0 +1,78 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Dividendos.CrossCutting.IoC</RootNamespace>
+	  <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.Clear\Dividendos.Clear.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.NuInvest\Dividendos.NuInvest.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.Rico\Dividendos.Rico.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.Xp\Dividendos.Xp.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Clear.Interface\Dividendos.Clear.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Coinbase.Interface\Dividendos.Coinbase.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.CoinMarketCap.Interface\Dividendos.CoinMarketCap.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.CoinNext.Interface\Dividendos.CoinNext.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Finance.Interface\Dividendos.Finance.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Dividendos.Application\Dividendos.Application.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.InvestingCom.Interface\Dividendos.InvestingCom.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.MercadoBitcoin.Interface\Dividendos.MercadoBitcoin.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.NovaDax.Interface\Dividendos.NovaDax.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Rico.Interface\Dividendos.Rico.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Xp.Interface\Dividendos.Xp.Interface.csproj" />
+    <ProjectReference Include="..\..\Dividendos.Repository\Dividendos.Repository.csproj" />
+    <ProjectReference Include="..\..\Dividendos.Services\Dividendos.Service.csproj" />
+    <ProjectReference Include="..\..\Interface\Dividendos.Repository.Interface\Dividendos.Repository.Interface.csproj" />
+    <ProjectReference Include="..\..\Interface\Dividendos.Service.Interfaces\Dividendos.Service.Interface.csproj" />
+    <ProjectReference Include="..\Dividendos.CrossCutting.Config\Dividendos.CrossCutting.Config.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.StatusInvest\Dividendos.StatusInvest.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.StatusInvest.Interface\Dividendos.StatusInvest.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.Nasdaq\Dividendos.Nasdaq.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.Passfolio\Dividendos.Passfolio.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Nasdaq.Interface\Dividendos.Nasdaq.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.BitcoinTrade\Dividendos.BitcoinTrade.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.Bacen\Dividendos.Bacen.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.B3\Dividendos.B3.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.B3.Interface\Dividendos.B3.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.BitcoinToYou.Interface\Dividendos.BitcoinToYou.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Binance.Interface\Dividendos.Binance.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Passfolio.Interface\Dividendos.Passfolio.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.TradeMap.Interface\Dividendos.TradeMap.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.TradeMap\Dividendos.TradeMap.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.Finance\Dividendos.Finance.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.Coinbase\Dividendos.Coinbase.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.CoinMarketCap\Dividendos.CoinMarketCap.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.BitcoinToYou\Dividendos.BitcoinToYou.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.Biscoint\Dividendos.Biscoint.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.Binance\Dividendos.Binance.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Bacen.Interface\Dividendos.Bacen.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.NovaDax\Dividendos.NovaDax.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.MercadoBitcoin\Dividendos.MercadoBitcoin.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.CoinNext\Dividendos.CoinNext.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.AWS\Dividendos.AWS.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.AWS\Dividendos.AWS.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.Avenue\Dividendos.Avenue.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Avenue.Interface\Dividendos.Avenue.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.Toro\Dividendos.Toro.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Toro.Interface\Dividendos.Toro.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.InvestingCom\Dividendos.InvestingCom.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.InvestidorB3\Dividendos.InvestidorB3.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.InvestidorB3.Interface\Dividendos.InvestidorB3.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.RDStation\Dividendos.RDStation.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.RDStation.Interface\Dividendos.RDStation.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.Hurst\Dividendos.Hurst.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.Hurst.Interface\Dividendos.Hurst.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.BitPreco\Dividendos.BitPreco.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.BitPreco.Interface\Dividendos.BitPreco.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\Interface\Dividendos.IexAPIs.Interface\Dividendos.IexAPIs.Interface.csproj" />
+    <ProjectReference Include="..\..\..\App\ExternalService\Dividendos.IexAPIs\Dividendos.IexAPIs.csproj" />
+  </ItemGroup>
+
+</Project>

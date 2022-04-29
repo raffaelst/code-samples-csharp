@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+	  <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+    <PackageReference Include="K.Logger" Version="1.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\CrossCutting\Dividendos.CrossCutting.Identity\Dividendos.CrossCutting.Identity.csproj" />
+    <ProjectReference Include="..\..\Core\Interface\Dividendos.Repository.Interface\Dividendos.Repository.Interface.csproj" />
+    <ProjectReference Include="..\..\Core\Interface\Dividendos.Service.Interfaces\Dividendos.Service.Interface.csproj" />
+    <ProjectReference Include="..\ExternalService\Dividendos.InfoMoney\Dividendos.InfoMoney.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Application.Interface\Dividendos.Application.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Avenue.Interface\Dividendos.Avenue.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.B3.Interface\Dividendos.B3.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Bacen.Interface\Dividendos.Bacen.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Binance.Interface\Dividendos.Binance.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.BitcoinToYou.Interface\Dividendos.BitcoinToYou.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Biscoint.Interface\Dividendos.Biscoint.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.BitcoinTrade.Interface\Dividendos.BitcoinTrade.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Clear.Interface\Dividendos.Clear.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Coinbase.Interface\Dividendos.Coinbase.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.CoinMarketCap.Interface\Dividendos.CoinMarketCap.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Finance.Interface\Dividendos.Finance.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.InvestingCom.Interface\Dividendos.InvestingCom.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.MercadoBitcoin.Interface\Dividendos.MercadoBitcoin.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.NuInvest.Interface\Dividendos.NuInvest.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Rico.Interface\Dividendos.Rico.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Toro.Interface\Dividendos.Toro.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.TradeMap.Interface\Dividendos.TradeMap.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.StatusInvest.Interface\Dividendos.StatusInvest.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Nasdaq.Interface\Dividendos.Nasdaq.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Passfolio.Interface\Dividendos.Passfolio.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.AWS\Dividendos.AWS.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Xp.Interface\Dividendos.Xp.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.InvestidorB3.Interface\Dividendos.InvestidorB3.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.RDStation.Interface\Dividendos.RDStation.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.Hurst.Interface\Dividendos.Hurst.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.BitPreco.Interface\Dividendos.BitPreco.Interface.csproj" />
+    <ProjectReference Include="..\Interface\Dividendos.IexAPIs.Interface\Dividendos.IexAPIs.Interface.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Base\" />
+  </ItemGroup>
+
+</Project>

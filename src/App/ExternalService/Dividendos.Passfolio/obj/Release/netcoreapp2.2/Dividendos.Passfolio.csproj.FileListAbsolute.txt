@@ -1,0 +1,12 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Passfolio\bin\Release\netcoreapp2.2\Dividendos.Passfolio.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Passfolio\bin\Release\netcoreapp2.2\Dividendos.Passfolio.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Passfolio\bin\Release\netcoreapp2.2\Dividendos.Passfolio.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Passfolio\bin\Release\netcoreapp2.2\Dividendos.Passfolio.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Passfolio\bin\Release\netcoreapp2.2\Dividendos.Passfolio.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Passfolio\obj\Release\netcoreapp2.2\Dividendos.Passfolio.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Passfolio\obj\Release\netcoreapp2.2\Dividendos.Passfolio.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Passfolio\obj\Release\netcoreapp2.2\Dividendos.Passfolio.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Passfolio\obj\Release\netcoreapp2.2\Dividendos.Passfolio.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Passfolio\obj\Release\netcoreapp2.2\Dividendos.Passfolio.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Passfolio\obj\Release\netcoreapp2.2\Dividendos.Passfolio.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Passfolio\obj\Release\netcoreapp2.2\Dividendos.Passfolio.pdb

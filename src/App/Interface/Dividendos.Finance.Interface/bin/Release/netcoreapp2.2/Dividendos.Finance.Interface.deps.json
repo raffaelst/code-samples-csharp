@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Dividendos.Finance.Interface/1.0.0": {
+        "runtime": {
+          "Dividendos.Finance.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dividendos.Finance.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

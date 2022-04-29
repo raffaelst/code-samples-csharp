@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pcaJMbnwhcOStFGjMso+tVAqiO2Lyr/vxoicxRIZT3cbU6QAmlRP7xOFSBr/ikqUh663UoPe1Er+tUeKpcEwqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\App\\ExternalService\\Dividendos.Bacen\\Dividendos.Bacen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trademap\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\trademap\\.nuget\\packages\\system.private.servicemodel\\4.5.3\\system.private.servicemodel.4.5.3.nupkg.sha512",
+    "C:\\Users\\trademap\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\trademap\\.nuget\\packages\\system.servicemodel.duplex\\4.5.3\\system.servicemodel.duplex.4.5.3.nupkg.sha512",
+    "C:\\Users\\trademap\\.nuget\\packages\\system.servicemodel.http\\4.5.3\\system.servicemodel.http.4.5.3.nupkg.sha512",
+    "C:\\Users\\trademap\\.nuget\\packages\\system.servicemodel.nettcp\\4.5.3\\system.servicemodel.nettcp.4.5.3.nupkg.sha512",
+    "C:\\Users\\trademap\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512",
+    "C:\\Users\\trademap\\.nuget\\packages\\system.servicemodel.security\\4.5.3\\system.servicemodel.security.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

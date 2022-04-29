@@ -1,0 +1,12 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinNext\bin\Debug\netstandard2.0\Dividendos.CoinNext.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinNext\bin\Debug\netstandard2.0\Dividendos.CoinNext.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinNext\bin\Debug\netstandard2.0\Dividendos.CoinNext.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinNext\bin\Debug\netstandard2.0\Dividendos.CoinNext.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinNext\bin\Debug\netstandard2.0\Dividendos.CoinNext.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinNext\obj\Debug\netstandard2.0\Dividendos.CoinNext.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinNext\obj\Debug\netstandard2.0\Dividendos.CoinNext.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinNext\obj\Debug\netstandard2.0\Dividendos.CoinNext.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinNext\obj\Debug\netstandard2.0\Dividendos.CoinNext.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinNext\obj\Debug\netstandard2.0\Dividendos.CoinNext.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinNext\obj\Debug\netstandard2.0\Dividendos.CoinNext.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.CoinNext\obj\Debug\netstandard2.0\Dividendos.CoinNext.pdb

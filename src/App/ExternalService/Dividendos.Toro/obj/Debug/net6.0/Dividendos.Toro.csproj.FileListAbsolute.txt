@@ -1,0 +1,15 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\bin\Debug\net6.0\Dividendos.Toro.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\bin\Debug\net6.0\Dividendos.Toro.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\bin\Debug\net6.0\Dividendos.Toro.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\bin\Debug\net6.0\Dividendos.Toro.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\bin\Debug\net6.0\Dividendos.Toro.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\obj\Debug\net6.0\Dividendos.Toro.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\obj\Debug\net6.0\Dividendos.Toro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\obj\Debug\net6.0\Dividendos.Toro.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\obj\Debug\net6.0\Dividendos.Toro.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\obj\Debug\net6.0\Dividendos.Toro.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\obj\Debug\net6.0\Dividendos.Toro.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\obj\Debug\net6.0\Dividendos.Toro.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\obj\Debug\net6.0\refint\Dividendos.Toro.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\obj\Debug\net6.0\Dividendos.Toro.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Toro\obj\Debug\net6.0\ref\Dividendos.Toro.dll

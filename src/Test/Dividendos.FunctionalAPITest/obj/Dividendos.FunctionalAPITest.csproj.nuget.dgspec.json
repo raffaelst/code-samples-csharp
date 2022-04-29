@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\trademap\\Documents\\GitHub\\DividendosBackEnd\\src\\Test\\Dividendos.FunctionalAPITest\\Dividendos.FunctionalAPITest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\trademap\\Documents\\GitHub\\DividendosBackEnd\\src\\Test\\Dividendos.FunctionalAPITest\\Dividendos.FunctionalAPITest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trademap\\Documents\\GitHub\\DividendosBackEnd\\src\\Test\\Dividendos.FunctionalAPITest\\Dividendos.FunctionalAPITest.csproj",
+        "projectName": "Dividendos.FunctionalAPITest",
+        "projectPath": "C:\\Users\\trademap\\Documents\\GitHub\\DividendosBackEnd\\src\\Test\\Dividendos.FunctionalAPITest\\Dividendos.FunctionalAPITest.csproj",
+        "packagesPath": "C:\\Users\\trademap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trademap\\Documents\\GitHub\\DividendosBackEnd\\src\\Test\\Dividendos.FunctionalAPITest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\trademap\\Documents\\GitHub\\DividendosBackEnd\\src\\NuGet.Config",
+          "C:\\Users\\trademap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://nuget.dividendos.me/nuget": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

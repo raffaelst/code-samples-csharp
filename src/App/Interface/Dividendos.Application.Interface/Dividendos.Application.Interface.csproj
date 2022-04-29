@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Dividendos.Application.Interface</RootNamespace>
+  <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
+  <Configurations>Release;Debug</Configurations>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <CodeAnalysisRuleSet>ProductNameHere.Application.Interface.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <CodeAnalysisRuleSet>ProductNameHere.Application.Interface.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\API\Dividendos.API.Model\Dividendos.API.Model.csproj" />
+    <ProjectReference Include="..\..\..\Core\Dividendos.Entities\Dividendos.Entity.csproj" />
+    <ProjectReference Include="..\Dividendos.NuInvest.Interface\Dividendos.NuInvest.Interface.csproj" />
+    <ProjectReference Include="..\Dividendos.RDStation.Interface\Dividendos.RDStation.Interface.csproj" />
+    <ProjectReference Include="..\..\..\Core\CrossCutting\Dividendos.CrossCutting.Identity\Dividendos.CrossCutting.Identity.csproj" />
+  </ItemGroup>
+
+</Project>

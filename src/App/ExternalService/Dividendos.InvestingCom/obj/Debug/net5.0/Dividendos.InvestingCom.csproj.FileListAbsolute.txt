@@ -1,0 +1,15 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\bin\Debug\net5.0\Dividendos.InvestingCom.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\bin\Debug\net5.0\Dividendos.InvestingCom.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\bin\Debug\net5.0\Dividendos.InvestingCom.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\bin\Debug\net5.0\Dividendos.InvestingCom.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\bin\Debug\net5.0\Dividendos.InvestingCom.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\obj\Debug\net5.0\Dividendos.InvestingCom.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\obj\Debug\net5.0\Dividendos.InvestingCom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\obj\Debug\net5.0\Dividendos.InvestingCom.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\obj\Debug\net5.0\Dividendos.InvestingCom.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\obj\Debug\net5.0\Dividendos.InvestingCom.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\obj\Debug\net5.0\Dividendos.InvestingCom.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\obj\Debug\net5.0\Dividendos.InvestingCom.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\obj\Debug\net5.0\refint\Dividendos.InvestingCom.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\obj\Debug\net5.0\Dividendos.InvestingCom.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.InvestingCom\obj\Debug\net5.0\ref\Dividendos.InvestingCom.dll

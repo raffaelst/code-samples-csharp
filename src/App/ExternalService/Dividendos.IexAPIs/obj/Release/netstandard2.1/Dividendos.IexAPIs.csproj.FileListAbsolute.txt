@@ -1,0 +1,13 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.IexAPIs\bin\Release\netstandard2.1\Dividendos.IexAPIs.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.IexAPIs\bin\Release\netstandard2.1\Dividendos.IexAPIs.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.IexAPIs\bin\Release\netstandard2.1\Dividendos.IexAPIs.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.IexAPIs\bin\Release\netstandard2.1\Dividendos.IexAPIs.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.IexAPIs\bin\Release\netstandard2.1\Dividendos.IexAPIs.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.IexAPIs\obj\Release\netstandard2.1\Dividendos.IexAPIs.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.IexAPIs\obj\Release\netstandard2.1\Dividendos.IexAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.IexAPIs\obj\Release\netstandard2.1\Dividendos.IexAPIs.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.IexAPIs\obj\Release\netstandard2.1\Dividendos.IexAPIs.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.IexAPIs\obj\Release\netstandard2.1\Dividendos.IexAPIs.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.IexAPIs\obj\Release\netstandard2.1\Dividendos.IexAPIs.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.IexAPIs\obj\Release\netstandard2.1\Dividendos.IexAPIs.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.IexAPIs\obj\Release\netstandard2.1\Dividendos.IexAPIs.pdb

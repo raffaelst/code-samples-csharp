@@ -1,0 +1,12 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.AWS\bin\Release\net6.0\Dividendos.AWS.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.AWS\bin\Release\net6.0\Dividendos.AWS.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.AWS\bin\Release\net6.0\Dividendos.AWS.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.AWS\obj\Release\net6.0\Dividendos.AWS.Interface.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.AWS\obj\Release\net6.0\Dividendos.AWS.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.AWS\obj\Release\net6.0\Dividendos.AWS.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.AWS\obj\Release\net6.0\Dividendos.AWS.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.AWS\obj\Release\net6.0\Dividendos.AWS.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.AWS\obj\Release\net6.0\Dividendos.AWS.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.AWS\obj\Release\net6.0\refint\Dividendos.AWS.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.AWS\obj\Release\net6.0\Dividendos.AWS.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.AWS\obj\Release\net6.0\ref\Dividendos.AWS.Interface.dll

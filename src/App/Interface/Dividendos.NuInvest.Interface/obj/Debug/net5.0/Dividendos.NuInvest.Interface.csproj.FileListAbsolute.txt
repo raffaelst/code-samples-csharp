@@ -1,0 +1,12 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NuInvest.Interface\bin\Debug\net5.0\Dividendos.NuInvest.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NuInvest.Interface\bin\Debug\net5.0\Dividendos.NuInvest.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NuInvest.Interface\bin\Debug\net5.0\Dividendos.NuInvest.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NuInvest.Interface\obj\Debug\net5.0\Dividendos.NuInvest.Interface.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NuInvest.Interface\obj\Debug\net5.0\Dividendos.NuInvest.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NuInvest.Interface\obj\Debug\net5.0\Dividendos.NuInvest.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NuInvest.Interface\obj\Debug\net5.0\Dividendos.NuInvest.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NuInvest.Interface\obj\Debug\net5.0\Dividendos.NuInvest.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NuInvest.Interface\obj\Debug\net5.0\Dividendos.NuInvest.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NuInvest.Interface\obj\Debug\net5.0\refint\Dividendos.NuInvest.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NuInvest.Interface\obj\Debug\net5.0\Dividendos.NuInvest.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NuInvest.Interface\obj\Debug\net5.0\ref\Dividendos.NuInvest.Interface.dll

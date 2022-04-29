@@ -1,0 +1,13 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.BitPreco\bin\Release\netstandard2.1\Dividendos.BitPreco.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.BitPreco\bin\Release\netstandard2.1\Dividendos.BitPreco.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.BitPreco\bin\Release\netstandard2.1\Dividendos.BitPreco.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.BitPreco\bin\Release\netstandard2.1\Dividendos.BitPreco.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.BitPreco\bin\Release\netstandard2.1\Dividendos.BitPreco.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.BitPreco\obj\Release\netstandard2.1\Dividendos.BitPreco.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.BitPreco\obj\Release\netstandard2.1\Dividendos.BitPreco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.BitPreco\obj\Release\netstandard2.1\Dividendos.BitPreco.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.BitPreco\obj\Release\netstandard2.1\Dividendos.BitPreco.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.BitPreco\obj\Release\netstandard2.1\Dividendos.BitPreco.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.BitPreco\obj\Release\netstandard2.1\Dividendos.BitPreco.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.BitPreco\obj\Release\netstandard2.1\Dividendos.BitPreco.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.BitPreco\obj\Release\netstandard2.1\Dividendos.BitPreco.pdb

@@ -1,0 +1,9 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.CoinMarketCap.Interface\bin\Release\netstandard2.0\Dividendos.CoinMarketCap.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.CoinMarketCap.Interface\bin\Release\netstandard2.0\Dividendos.CoinMarketCap.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.CoinMarketCap.Interface\bin\Release\netstandard2.0\Dividendos.CoinMarketCap.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.CoinMarketCap.Interface\obj\Release\netstandard2.0\Dividendos.CoinMarketCap.Interface.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.CoinMarketCap.Interface\obj\Release\netstandard2.0\Dividendos.CoinMarketCap.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.CoinMarketCap.Interface\obj\Release\netstandard2.0\Dividendos.CoinMarketCap.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.CoinMarketCap.Interface\obj\Release\netstandard2.0\Dividendos.CoinMarketCap.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.CoinMarketCap.Interface\obj\Release\netstandard2.0\Dividendos.CoinMarketCap.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.CoinMarketCap.Interface\obj\Release\netstandard2.0\Dividendos.CoinMarketCap.Interface.pdb

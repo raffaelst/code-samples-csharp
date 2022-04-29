@@ -1,0 +1,9 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\bin\Release\netcoreapp2.2\Dividendos.Entity.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\bin\Release\netcoreapp2.2\Dividendos.Entity.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\bin\Release\netcoreapp2.2\Dividendos.Entity.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Release\netcoreapp2.2\Dividendos.Entity.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Release\netcoreapp2.2\Dividendos.Entity.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Release\netcoreapp2.2\Dividendos.Entity.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Release\netcoreapp2.2\Dividendos.Entity.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Release\netcoreapp2.2\Dividendos.Entity.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\Core\Dividendos.Entities\obj\Release\netcoreapp2.2\Dividendos.Entity.pdb

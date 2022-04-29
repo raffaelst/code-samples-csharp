@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oa1uY/KRv4LStctUxGd2s2d6xrwRSuRgbsr1/S0VtUTD6jwpQ3o9AGDb2gnK4UAb2RQAHO6V3mQ/dr+RnHm7OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trademap\\Documents\\GitHub\\code-samples-csharp\\src\\App\\ExternalService\\Dividendos.InvestingCom\\Dividendos.InvestingCom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trademap\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\trademap\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

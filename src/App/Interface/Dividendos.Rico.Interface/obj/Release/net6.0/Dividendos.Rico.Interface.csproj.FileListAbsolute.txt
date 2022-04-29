@@ -1,0 +1,12 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Rico.Interface\bin\Release\net6.0\Dividendos.Rico.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Rico.Interface\bin\Release\net6.0\Dividendos.Rico.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Rico.Interface\bin\Release\net6.0\Dividendos.Rico.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Rico.Interface\obj\Release\net6.0\Dividendos.Rico.Interface.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Rico.Interface\obj\Release\net6.0\Dividendos.Rico.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Rico.Interface\obj\Release\net6.0\Dividendos.Rico.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Rico.Interface\obj\Release\net6.0\Dividendos.Rico.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Rico.Interface\obj\Release\net6.0\Dividendos.Rico.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Rico.Interface\obj\Release\net6.0\Dividendos.Rico.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Rico.Interface\obj\Release\net6.0\refint\Dividendos.Rico.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Rico.Interface\obj\Release\net6.0\Dividendos.Rico.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Rico.Interface\obj\Release\net6.0\ref\Dividendos.Rico.Interface.dll

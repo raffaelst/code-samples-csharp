@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Sheets.v4" Version="1.40.0.1610" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Interface\Dividendos.SuggestedPortfolioBySpecialist.Interface\Dividendos.SuggestedPortfolioBySpecialist.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

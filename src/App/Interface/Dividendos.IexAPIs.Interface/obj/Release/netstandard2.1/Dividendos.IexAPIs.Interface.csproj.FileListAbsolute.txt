@@ -1,0 +1,10 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.IexAPIs.Interface\bin\Release\netstandard2.1\Dividendos.IexAPIs.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.IexAPIs.Interface\bin\Release\netstandard2.1\Dividendos.IexAPIs.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.IexAPIs.Interface\bin\Release\netstandard2.1\Dividendos.IexAPIs.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.IexAPIs.Interface\obj\Release\netstandard2.1\Dividendos.IexAPIs.Interface.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.IexAPIs.Interface\obj\Release\netstandard2.1\Dividendos.IexAPIs.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.IexAPIs.Interface\obj\Release\netstandard2.1\Dividendos.IexAPIs.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.IexAPIs.Interface\obj\Release\netstandard2.1\Dividendos.IexAPIs.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.IexAPIs.Interface\obj\Release\netstandard2.1\Dividendos.IexAPIs.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.IexAPIs.Interface\obj\Release\netstandard2.1\Dividendos.IexAPIs.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.IexAPIs.Interface\obj\Release\netstandard2.1\Dividendos.IexAPIs.Interface.pdb

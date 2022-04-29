@@ -1,0 +1,15 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\bin\Release\net6.0\Dividendos.Hurst.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\bin\Release\net6.0\Dividendos.Hurst.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\bin\Release\net6.0\Dividendos.Hurst.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\bin\Release\net6.0\Dividendos.Hurst.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\bin\Release\net6.0\Dividendos.Hurst.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\obj\Release\net6.0\Dividendos.Hurst.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\obj\Release\net6.0\Dividendos.Hurst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\obj\Release\net6.0\Dividendos.Hurst.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\obj\Release\net6.0\Dividendos.Hurst.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\obj\Release\net6.0\Dividendos.Hurst.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\obj\Release\net6.0\Dividendos.Hurst.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\obj\Release\net6.0\Dividendos.Hurst.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\obj\Release\net6.0\refint\Dividendos.Hurst.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\obj\Release\net6.0\Dividendos.Hurst.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.Hurst\obj\Release\net6.0\ref\Dividendos.Hurst.dll

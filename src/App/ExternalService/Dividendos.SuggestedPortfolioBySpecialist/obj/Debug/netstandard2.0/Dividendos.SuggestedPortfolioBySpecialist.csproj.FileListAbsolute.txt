@@ -1,0 +1,12 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.SuggestedPortfolioBySpecialist\bin\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.SuggestedPortfolioBySpecialist\bin\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.SuggestedPortfolioBySpecialist\bin\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.SuggestedPortfolioBySpecialist\bin\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.SuggestedPortfolioBySpecialist\bin\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.SuggestedPortfolioBySpecialist\obj\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.SuggestedPortfolioBySpecialist\obj\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.SuggestedPortfolioBySpecialist\obj\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.SuggestedPortfolioBySpecialist\obj\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.SuggestedPortfolioBySpecialist\obj\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.SuggestedPortfolioBySpecialist\obj\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\ExternalService\Dividendos.SuggestedPortfolioBySpecialist\obj\Debug\netstandard2.0\Dividendos.SuggestedPortfolioBySpecialist.pdb

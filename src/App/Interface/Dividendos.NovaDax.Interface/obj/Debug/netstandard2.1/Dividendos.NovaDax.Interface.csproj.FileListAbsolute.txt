@@ -1,0 +1,10 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NovaDax.Interface\bin\Debug\netstandard2.1\Dividendos.NovaDax.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NovaDax.Interface\bin\Debug\netstandard2.1\Dividendos.NovaDax.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NovaDax.Interface\bin\Debug\netstandard2.1\Dividendos.NovaDax.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NovaDax.Interface\obj\Debug\netstandard2.1\Dividendos.NovaDax.Interface.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NovaDax.Interface\obj\Debug\netstandard2.1\Dividendos.NovaDax.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NovaDax.Interface\obj\Debug\netstandard2.1\Dividendos.NovaDax.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NovaDax.Interface\obj\Debug\netstandard2.1\Dividendos.NovaDax.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NovaDax.Interface\obj\Debug\netstandard2.1\Dividendos.NovaDax.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NovaDax.Interface\obj\Debug\netstandard2.1\Dividendos.NovaDax.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.NovaDax.Interface\obj\Debug\netstandard2.1\Dividendos.NovaDax.Interface.pdb

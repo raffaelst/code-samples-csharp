@@ -1,0 +1,9 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\bin\Debug\netcoreapp2.2\Dividendos.Bacen.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\bin\Debug\netcoreapp2.2\Dividendos.Bacen.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\bin\Debug\netcoreapp2.2\Dividendos.Bacen.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\netcoreapp2.2\Dividendos.Bacen.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\netcoreapp2.2\Dividendos.Bacen.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\netcoreapp2.2\Dividendos.Bacen.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\netcoreapp2.2\Dividendos.Bacen.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\netcoreapp2.2\Dividendos.Bacen.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Bacen.Interface\obj\Debug\netcoreapp2.2\Dividendos.Bacen.Interface.csproj.AssemblyReference.cache

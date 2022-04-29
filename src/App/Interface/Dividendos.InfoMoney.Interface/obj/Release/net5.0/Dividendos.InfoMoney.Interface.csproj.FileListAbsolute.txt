@@ -1,0 +1,12 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InfoMoney.Interface\bin\Release\net5.0\Dividendos.InfoMoney.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InfoMoney.Interface\bin\Release\net5.0\Dividendos.InfoMoney.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InfoMoney.Interface\bin\Release\net5.0\ref\Dividendos.InfoMoney.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InfoMoney.Interface\bin\Release\net5.0\Dividendos.InfoMoney.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InfoMoney.Interface\obj\Release\net5.0\Dividendos.InfoMoney.Interface.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InfoMoney.Interface\obj\Release\net5.0\Dividendos.InfoMoney.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InfoMoney.Interface\obj\Release\net5.0\Dividendos.InfoMoney.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InfoMoney.Interface\obj\Release\net5.0\Dividendos.InfoMoney.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InfoMoney.Interface\obj\Release\net5.0\Dividendos.InfoMoney.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InfoMoney.Interface\obj\Release\net5.0\Dividendos.InfoMoney.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InfoMoney.Interface\obj\Release\net5.0\ref\Dividendos.InfoMoney.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.InfoMoney.Interface\obj\Release\net5.0\Dividendos.InfoMoney.Interface.pdb

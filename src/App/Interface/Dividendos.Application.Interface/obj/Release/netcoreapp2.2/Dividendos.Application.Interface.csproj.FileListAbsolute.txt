@@ -1,0 +1,14 @@
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\bin\Release\netcoreapp2.2\Dividendos.Application.Interface.deps.json
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\bin\Release\netcoreapp2.2\Dividendos.Application.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\bin\Release\netcoreapp2.2\Dividendos.Application.Interface.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\bin\Release\netcoreapp2.2\Dividendos.API.Model.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\bin\Release\netcoreapp2.2\Dividendos.Entity.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\bin\Release\netcoreapp2.2\Dividendos.API.Model.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\bin\Release\netcoreapp2.2\Dividendos.Entity.pdb
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\obj\Release\netcoreapp2.2\Dividendos.Application.Interface.csproj.AssemblyReference.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\obj\Release\netcoreapp2.2\Dividendos.Application.Interface.AssemblyInfoInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\obj\Release\netcoreapp2.2\Dividendos.Application.Interface.AssemblyInfo.cs
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\obj\Release\netcoreapp2.2\Dividendos.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\obj\Release\netcoreapp2.2\Dividendos.Application.Interface.csproj.CopyComplete
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\obj\Release\netcoreapp2.2\Dividendos.Application.Interface.dll
+C:\Users\trademap\Documents\GitHub\DividendosBackEnd\src\App\Interface\Dividendos.Application.Interface\obj\Release\netcoreapp2.2\Dividendos.Application.Interface.pdb
